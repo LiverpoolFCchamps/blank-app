@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-# ── Page config ─────────────────────────────────────────────────────────────── 
+# ── Page config ───────────────────────────────────────────────────────────────  
 st.set_page_config( 
     page_title="Моята библиотека",
     page_icon="📚",
