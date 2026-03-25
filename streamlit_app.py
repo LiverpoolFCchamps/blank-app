@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # ── Page config ─────────────────────────────────────────────────────────────── 
-st.set_page_config(
+st.set_page_config( 
     page_title="Моята библиотека",
     page_icon="📚",
     layout="wide",
